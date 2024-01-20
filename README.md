@@ -7,4 +7,4 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 Analyze a database of 1,000 sample projects to determine any hidden trends in 'failed' versus 'successful' projects. 
 
 # Excel Tools
-Pivot tables, Line graphs, Stacked column charts, VLOOKUP
+Conditional formatting, Pivot tables, Line graphs, Stacked column charts
